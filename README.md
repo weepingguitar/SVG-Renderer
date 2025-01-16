@@ -5,6 +5,7 @@
 1. Run command:
   ```shell
       git clone https://github.com/weepingguitar/SVG-Renderer
+      cd SVG-Renderer
   ```
 ## Compile
 
