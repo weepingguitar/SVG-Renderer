@@ -1,0 +1,15 @@
+<svg width="1000" height="1000" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg">
+  <path
+    d="
+      M500,200
+      C350,50 150,50 150,200
+      C150,350 300,450 500,600
+      C700,450 850,350 850,200
+      C850,50 650,50 500,200
+      Z
+    "
+    fill="red"
+    stroke="red"
+    stroke-width="10"
+  />
+</svg>
